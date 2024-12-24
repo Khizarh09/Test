@@ -1,4 +1,4 @@
 # Test
 My first Git Repository 
 <br>
-Author - Khizar Hayyat 
+Author - Khizar Hayyat bin Tayyab
